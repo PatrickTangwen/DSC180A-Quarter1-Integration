@@ -2,7 +2,7 @@
 
 ## Instructions for accessing AWS on a local machine.
 
-1. Open terminal <br>
+1. Open terminal and clone this repo <br>
 2. Navigate to the repository directory: <br>
 ```cd DSC180A-Quarter1-Integration```<br>
 

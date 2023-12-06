@@ -19,7 +19,7 @@ After executing these commands, you will see the following response:<br>
 <img width="569" alt="image" src="https://github.com/PatrickTangwen/DSC180A-Quarter1-Integration/assets/102566928/8db3a9a6-40c0-4891-abe2-2139c7da5b14"> <br>
 
 5. Copy the URL displayed at the bottom:<br>
-For example, the URL displayed at the bootom of the screenshot is:
+For example, the URL displayed at the bootom of the screenshot is:<br>
 ```http://localhost:8886/?token=5d4bea140a359144f1fbe969e9251c8bc5d546329c7b46f4```
 (You should have a different URL)
 

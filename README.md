@@ -7,6 +7,7 @@
 ```cd DSC180A-Quarter1-Integration```<br>
 
 3. Follow the command below to get access to AWS server <br>
+``` chmod 0400 med1.pem ``` <br>
 ``` ssh -i med1.pem ubuntu@54.186.34.136 ``` <br>
 (make sure the file name is **"med1.pem"** with **"pem"** extension instead of other file extension)<br>
 

@@ -1,6 +1,6 @@
 # DSC180A-Quarter1-Integration
 
-## Instructions for accessing AWS in local machine
+## Instructions for accessing AWS on a local machine.
 
 1. Open terminal <br>
 2. Navigate to the repository directory: <br>

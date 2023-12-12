@@ -36,7 +36,8 @@ For example, the URL displayed at the bootom of the screenshot is:<br>
 9. Refresh the page from **step 5**, and you should now be able to access the Jupyter notebook.
 
 ## Instructions for Running the Login System Locally
-If you haven't install Node.js in your computer,please download it from the following url: https://nodejs.org/en/download
+If you haven't install Node.js in your computer,please download it from the following url:<br>
+[Node.js](https://nodejs.org/en/download)
 
 ### Backend
 1. Open your terminal<br> 

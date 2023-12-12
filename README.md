@@ -1,5 +1,14 @@
 # DSC180A-Quarter1-Integration
 
+## Structure
+- / (root directory)
+  - login_system_backend/
+  - login_system_backend/
+  - .DS_Store
+  - README.md
+  - med1.pem
+
+
 ## Instructions for accessing AWS on a local machine.
 
 1. Open terminal and clone this repository using the following command: <br>

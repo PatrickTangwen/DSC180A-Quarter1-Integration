@@ -34,3 +34,29 @@ For example, the URL displayed at the bootom of the screenshot is:<br>
    For **<4-digit-number>**, avoid using 8888 and try using other ports. Use the same port number as in the **step4**
    
 9. Refresh the page from **step 5**, and you should now be able to access the Jupyter notebook.
+
+## Instructions for Running the Login System Locally
+### Backend
+1. Open your terminal<br> 
+2. Navigate to the backend directory by typing the following command:<br>
+```cd login_system_backtend```
+3. Install the necessary dependencies:<br>
+```npm install```
+4. Start the backend server:<br>
+```npm run dev```
+
+
+### Frontend
+1. Open another new terminal<br>
+2. Navigate to the frontend directory by typing the following command: <br>
+```cd login_system_frontend```
+3. Install the required dependencies: <br>
+```npm install```
+4. Start the frontend server:<br>
+```npm run dev```<br>
+5. After starting the frontend server, you will see the URL of the local host displayed in the terminal.<br>
+6. Copy and paste this URL into your web browser's address bar.<br>
+7. You should now be able to access and interact with the login system locally in your browser.
+
+
+

@@ -39,7 +39,7 @@ For example, the URL displayed at the bootom of the screenshot is:<br>
 ### Backend
 1. Open your terminal<br> 
 2. Navigate to the backend directory by typing the following command:<br>
-```cd login_system_backtend```
+```cd login_system_backend```
 3. Install the necessary dependencies:<br>
 ```npm install```
 4. Start the backend server:<br>

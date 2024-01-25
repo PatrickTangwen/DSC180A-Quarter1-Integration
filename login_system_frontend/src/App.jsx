@@ -1,13 +1,15 @@
 import React from 'react';
 import Register from './Register';
 import NavBar from './Navbar';
+import Login from './Login'
 
 function App() {
 
   return (
     <main className="App">
       {/* <NavBar /> */}
-      <Register />
+      {/* <Register /> */}
+      <Login />
     </main>
   );
 }

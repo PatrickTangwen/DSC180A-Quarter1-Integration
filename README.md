@@ -12,7 +12,7 @@
 ``` chmod 0400 med1.pem ``` <br>
 ``` ssh -i med_dash.pem ubuntu@54.214.106.120 -L xxxx:localhost:xxxx ``` <br>
 (Make sure the file name is **"med1.pem"** with **"pem"** extension instead of other file extension)<br>
-You should replace **xxxx** by **<any 4-digit-number>** to avoid using the same port number.
+You should replace **xxxx** by **<any 4-digit-number>** for both **xxxx** to avoid using the same port number.
 
 5. In the same terminal, use the following commands to connect to the Jupyter notebook:<br>
 ``` source venv/bin/activate ``` <br>
